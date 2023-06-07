@@ -4,6 +4,7 @@
       "id": 1,
       "name": "Kennedy",
       "email": "Kennedy@example.com",
+      "password": "kennedy1",
       "goals": [
         {
             "walking": 10000,
@@ -27,6 +28,7 @@
       "id": 2,
       "name": "Linet",
       "email": "Linet@example.com",
+      "password": "linet2",
       "goals": [
         {
             "walking": 10000,
@@ -50,6 +52,7 @@
       "id": 3,
       "name": "Maimuna",
       "email": "Maimuna@gmail.com",
+      "password": "maimuna3",
       "goals": [
         {
             "walking": 10000,
@@ -73,6 +76,7 @@
       "id": 4,
       "name": "Maryanne",
       "email": "Maryanne@example.com",
+      "password": "maryanne4",
       "goals": [
         {
             "walking": 10000,
@@ -96,6 +100,7 @@
       "id": 5,
       "name": "Moffat",
       "email": "Moffat@example.com",
+      "password": "moffat5",
       "goals": [
         {
             "walking": 10000,
