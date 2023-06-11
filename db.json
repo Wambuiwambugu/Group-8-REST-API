@@ -16,9 +16,41 @@
       "dailyActivities": [
         {
             "id": 1,
-            "date": "",
-            "walking": 10000,
+            "date": "2023-06-06",
+            "walking": 8000,
             "sleep": 5,
+            "waterIntake": 8,
+            "workoutTime": 30
+        }
+        {
+            "id": 2,
+            "date": "2023-06-07",
+            "walking": 6000,
+            "sleep": 4,
+            "waterIntake": 8,
+            "workoutTime": 30
+        }
+        {
+            "id": 3,
+            "date": "2023-06-08",
+            "walking": 9000,
+            "sleep": 7,
+            "waterIntake": 8,
+            "workoutTime": 30
+        }
+        {
+            "id": 4,
+            "date": "2023-06-09",
+            "walking": 7000,
+            "sleep": 9,
+            "waterIntake": 8,
+            "workoutTime": 30
+        }
+        {
+            "id": 5,
+            "date": "2023-06-10",
+            "walking": 5000,
+            "sleep": 8,
             "waterIntake": 8,
             "workoutTime": 30
         }
@@ -32,7 +64,7 @@
       "goals": [
         {
             "walking": 10000,
-            "sleep": 5,
+            "sleep": 6,
             "waterIntake": 8,
             "workoutTime": 30
         }
@@ -40,10 +72,43 @@
       "dailyActivities": [
         {
             "id": 1,
-            "date": "",
+            "date": "2023-06-06",
             "walking": 10000,
             "sleep": 5,
             "waterIntake": 8,
+            "workoutTime": 30
+        }
+        
+        {
+            "id": 2,
+            "date": "2023-06-07",
+            "walking": 6000,
+            "sleep": 7,
+            "waterIntake": 8,
+            "workoutTime": 30
+        }
+        {
+            "id": 3,
+            "date": "2023-06-08",
+            "walking": 9000,
+            "sleep": 8,
+            "waterIntake": 8,
+            "workoutTime": 30
+        }
+        {
+            "id": 4,
+            "date": "2023-06-09",
+            "walking": 7000,
+            "sleep": 5,
+            "waterIntake": 6,
+            "workoutTime": 30
+        }
+        {
+            "id": 5,
+            "date": "2023-06-10",
+            "walking": 5000,
+            "sleep": 4,
+            "waterIntake": 7,
             "workoutTime": 30
         }
       ]
@@ -64,11 +129,44 @@
       "dailyActivities": [
         {
             "id": 1,
-            "date": "",
+            "date": "2023-06-06",
             "walking": 10000,
+            "sleep": 8,
+            "waterIntake": 5,
+            "workoutTime": 30
+        }
+        
+        {
+            "id": 2,
+            "date": "2023-06-07",
+            "walking": 6000,
+            "sleep": 4,
+            "waterIntake": 5,
+            "workoutTime": 15
+        }
+        {
+            "id": 3,
+            "date": "2023-06-08",
+            "walking": 9000,
+            "sleep": 7,
+            "waterIntake": 4,
+            "workoutTime": 20
+        }
+        {
+            "id": 4,
+            "date": "2023-06-09",
+            "walking": 7000,
             "sleep": 5,
             "waterIntake": 8,
             "workoutTime": 30
+        }
+        {
+            "id": 5,
+            "date": "2023-06-10",
+            "walking": 5000,
+            "sleep": 6,
+            "waterIntake": 8,
+            "workoutTime": 37
         }
       ]   
     },
@@ -81,15 +179,48 @@
         {
             "walking": 10000,
             "sleep": 5,
-            "waterIntake": 8,
-            "workoutTime": 30
+            "waterIntake": 6,
+            "workoutTime": 20
         }
       ],
       "dailyActivities": [
         {
             "id": 1,
-            "date": "",
+            "date": "2023-06-06",
             "walking": 10000,
+            "sleep": 5,
+            "waterIntake": 8,
+            "workoutTime": 3
+        }
+        
+        {
+            "id": 2,
+            "date": "2023-06-07",
+            "walking": 6000,
+            "sleep": 5,
+            "waterIntake": 8,
+            "workoutTime": 30
+        }
+        {
+            "id": 3,
+            "date": "2023-06-08",
+            "walking": 9000,
+            "sleep": 5,
+            "waterIntake": 8,
+            "workoutTime": 30
+        }
+        {
+            "id": 4,
+            "date": "2023-06-09",
+            "walking": 7000,
+            "sleep": 5,
+            "waterIntake": 8,
+            "workoutTime": 30
+        }
+        {
+            "id": 5,
+            "date": "2023-06-10",
+            "walking": 5000,
             "sleep": 5,
             "waterIntake": 8,
             "workoutTime": 30
@@ -112,11 +243,44 @@
       "dailyActivities": [
         {
             "id": 1,
-            "date": "",
+            "date": "2023-06-06",
             "walking": 10000,
             "sleep": 5,
             "waterIntake": 8,
+            "workoutTime": 15
+        }
+        
+        {
+            "id": 2,
+            "date": "2023-06-07",
+            "walking": 6000,
+            "sleep": 4,
+            "waterIntake": 6,
             "workoutTime": 30
+        }
+        {
+            "id": 3,
+            "date": "2023-06-08",
+            "walking": 1000,
+            "sleep": 8,
+            "waterIntake": 8,
+            "workoutTime": 20
+        }
+        {
+            "id": 4,
+            "date": "2023-06-09",
+            "walking": 7000,
+            "sleep": 6,
+            "waterIntake": 8,
+            "workoutTime": 30
+        }
+        {
+            "id": 5,
+            "date": "2023-06-10",
+            "walking": 5000,
+            "sleep": 5,
+            "waterIntake": 7,
+            "workoutTime": 50
         }
       ] 
     }
